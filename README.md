@@ -1,11 +1,10 @@
-## Hola, mi nombre es Jesús Hernández
-- {Java} Developer.  
+# Hola, mi nombre es Jesús Hernández
+- **{Java}** Developer.<br><br>  
 
 He trabajado en diversos proyectos, desarrollando sistemas, aplicaciones, web,  utilizando lenguajes, frameworks y tecnologías, como: Java, JavaScipt, Angular, PHP,  tanto en backend como FrontEnd, acorde a las necesidades de los proyectos, actualmente me encuentro desarrollando en backend utilizando Java, JavaScript.
 <br><br>
 
-<p>Encuentrame en:</p>
-<hr>
+## Encuentrame en:
 <a href="https://www.linkedin.com/in/jesúsrhernández/">
 <img src="https://github.com/user-attachments/assets/e76bed7a-6675-400a-aba8-fdb1807d040b" width="52">
 </a>
