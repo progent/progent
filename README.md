@@ -1,5 +1,5 @@
 # Hola, mi nombre es Jesús
-`- {Java} Developer.`<br><br>  
+`- {Java EE} Developer.`<br><br>  
 
 He trabajado en diversos proyectos, desarrollando sistemas, aplicaciones, web,  utilizando lenguajes, frameworks y tecnologías, como: `Java`, `JavaScipt`, `Angular`, `PHP`,  tanto en backend como FrontEnd, acorde a las necesidades de los proyectos.
 Actualmente me encuentro desarrollando en backend utilizando  `Java`, `JavaScript`.
