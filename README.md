@@ -9,11 +9,11 @@ Actualmente me encuentro desarrollando en backend utilizando  `Java`, `JavaScrip
 
 <div style="display:flex; gap:60px;">
 <a href="https://github.com/progent/Java">
-<img src="https://www.svgrepo.com/show/349418/java.svg" width="52" height="52">
+<img src="https://www.svgrepo.com/show/349418/java.svg" width="10%">
 </a> 
 
 <a href="https://github.com/progent/JavaScript">
-<img src="https://github.com/user-attachments/assets/01a359d6-7847-4bf3-972c-06eb529b2163" width="52" height="52">
+<img src="https://github.com/user-attachments/assets/01a359d6-7847-4bf3-972c-06eb529b2163" width="10%">
 </a>
 </div>
 
