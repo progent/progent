@@ -20,7 +20,7 @@ Actualmente me encuentro desarrollando en backend utilizando  `Java`, `JavaScrip
 ## Encuentrame en:
 <a href="https://www.linkedin.com/in/jesúsrhernández/">
 <img src="https://github.com/user-attachments/assets/e76bed7a-6675-400a-aba8-fdb1807d040b" width="52">
-  <img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/f500a39a-bf54-4dcf-99aa-9fef62ec29d8" />
+  <img width="52" height="52"  src="https://github.com/user-attachments/assets/f500a39a-bf54-4dcf-99aa-9fef62ec29d8" />
 
 </a>
 
