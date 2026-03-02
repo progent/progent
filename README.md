@@ -6,8 +6,12 @@ Actualmente me encuentro desarrollando en backend utilizando  `Java`, `JavaScrip
 <br><br>
 
 
-# Puedes conocer un poco mas de mi stack asi como ejemplos, demos, proyectos, practicas, etc aqui
+Puedes conocer un poco mas de mi stack asi como ejemplos, demos, proyectos, practicas, etc aqui
 <br><br>
+
+<a href="https://github.com/progent/Java">
+<img src="https://github.com/user-attachments/assets/43c939e6-40c9-450a-844b-82456154d2b4" width="52" height="52">
+</a>
 
 
 ## Encuentrame en:
