@@ -5,6 +5,11 @@ He trabajado en diversos proyectos, desarrollando sistemas, aplicaciones, web,  
 Actualmente me encuentro desarrollando en backend utilizando  `Java`, `JavaScript`.
 <br><br>
 
+
+## puedes conocer un poco mas de mi stack asi como ejemplos, demos, proyectos, practicas, etc aqui
+<br><br>
+
+
 ## Encuentrame en:
 <a href="https://www.linkedin.com/in/jesúsrhernández/">
 <img src="https://github.com/user-attachments/assets/e76bed7a-6675-400a-aba8-fdb1807d040b" width="52">
