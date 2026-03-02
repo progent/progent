@@ -6,7 +6,7 @@ Actualmente me encuentro desarrollando en backend utilizando  `Java`, `JavaScrip
 <br><br>
 
 
-## puedes conocer un poco mas de mi stack asi como ejemplos, demos, proyectos, practicas, etc aqui
+# Puedes conocer un poco mas de mi stack asi como ejemplos, demos, proyectos, practicas, etc aqui
 <br><br>
 
 
