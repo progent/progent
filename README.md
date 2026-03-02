@@ -8,12 +8,12 @@ Actualmente me encuentro desarrollando en backend utilizando  `Java`, `JavaScrip
 ### Puedes conocer un poco mas de mi stack asi como ejemplos, demos, proyectos, practicas, etc aqui:
 
 <p>
-<a href="https://github.com/progent/Java" style="text-decoration:none;">
-<img src="https://www.svgrepo.com/show/349418/java.svg" width="52" height="52" border="0" style="border:none;">
+<a href="https://github.com/progent/Java">
+<img src="https://www.svgrepo.com/show/349418/java.svg" width="52" height="52" border="0">
 </a> 
 &nbsp;
-<a href="https://github.com/progent/JavaScript" style="text-decoration:none;">
-<img src="https://github.com/user-attachments/assets/01a359d6-7847-4bf3-972c-06eb529b2163" width="52" height="52" border="0" style="border:none;">
+<a href="https://github.com/progent/JavaScript">
+<img src="https://github.com/user-attachments/assets/01a359d6-7847-4bf3-972c-06eb529b2163" width="52" height="52" border="0">
 </a>
 </p>
 
