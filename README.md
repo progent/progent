@@ -7,15 +7,14 @@ Actualmente me encuentro desarrollando en backend utilizando  `Java`, `JavaScrip
 
 ### Puedes conocer un poco mas de mi stack asi como ejemplos, demos, proyectos, practicas, etc aqui:
 
-<div style="display:flex; gap:60px;">
-<a href="https://github.com/progent/Java">
+<a href="https://github.com/progent/Java" style="display:inline-block; margin-right:20px;">
 <img src="https://www.svgrepo.com/show/349418/java.svg" width="5%">
 </a> 
 
-<a href="https://github.com/progent/JavaScript">
+<a href="https://github.com/progent/JavaScript" style="display:inline-block;">
 <img src="https://github.com/user-attachments/assets/01a359d6-7847-4bf3-972c-06eb529b2163" width="5%">
 </a>
-</div>
+
 
 ## Encuentrame en:
 <a href="https://www.linkedin.com/in/jesúsrhernández/">
