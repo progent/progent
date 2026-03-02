@@ -5,8 +5,7 @@ He trabajado en diversos proyectos, desarrollando sistemas, aplicaciones, web,  
 Actualmente me encuentro desarrollando en backend utilizando  `Java`, `JavaScript`.
 <br><br>
 
-### Puedes conocer un poco mas de mi stack asi como ejemplos, demos, proyectos, practicas, etc aqui:
-________
+## Puedes conocer un poco mas de mi stack asi como ejemplos, demos, proyectos, practicas, etc aqui:
 <a href="https://github.com/progent/Java">
 <img src="https://www.svgrepo.com/show/349418/java.svg" width="52" height="52">
 </a>
