@@ -9,18 +9,18 @@ Actualmente me encuentro desarrollando en backend utilizando  `Java`, `JavaScrip
 
 <p>
 <a href="https://github.com/progent/Java" style="text-decoration:none;">
-<img src="https://www.svgrepo.com/show/349418/java.svg" width="52" height="52">
+<img src="https://www.svgrepo.com/show/349418/java.svg" width="52" height="52" border="0" style="border:none;">
 </a> 
 &nbsp;
 <a href="https://github.com/progent/JavaScript" style="text-decoration:none;">
-<img src="https://github.com/user-attachments/assets/01a359d6-7847-4bf3-972c-06eb529b2163" width="52" height="52" border="0">
+<img src="https://github.com/user-attachments/assets/01a359d6-7847-4bf3-972c-06eb529b2163" width="52" height="52" border="0" style="border:none;">
 </a>
 </p>
 
 
 ## Encuentrame en:
 <a href="https://www.linkedin.com/in/jesúsrhernández/">
-<img src="https://github.com/user-attachments/assets/e76bed7a-6675-400a-aba8-fdb1807d040b" width="52" border="0">
+<img src="https://github.com/user-attachments/assets/e76bed7a-6675-400a-aba8-fdb1807d040b" width="52">
 </a>
 
 
