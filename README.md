@@ -10,9 +10,8 @@ Puedes conocer un poco mas de mi stack asi como ejemplos, demos, proyectos, prac
 <br><br>
 
 <a href="https://github.com/progent/Java">
-<img src="https://github.com/user-attachments/assets/43c939e6-40c9-450a-844b-82456154d2b4" width="52" height="52">
+<img src="https://www.svgrepo.com/show/349418/java.svg" width="52" height="52">
 </a>
-
 
 ## Encuentrame en:
 <a href="https://www.linkedin.com/in/jesúsrhernández/">
