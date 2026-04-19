@@ -3,7 +3,7 @@
 
 He trabajado en diversos proyectos, desarrollando sistemas, aplicaciones, web,  utilizando lenguajes, frameworks y tecnologías, como: `Java`, `JavaScript`, `Angular`, `PHP`,  tanto en backend como FrontEnd, acorde a las necesidades de los proyectos.
 Actualmente me encuentro desarrollando en backend utilizando  `Java`, `JavaScript`.
-<br><br>
+<br>
 
 #### Puedes conocer un poco mas de mi stack asi como ejemplos, demos, proyectos, practicas, etc aqui:
 <p>
