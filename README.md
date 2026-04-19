@@ -1,5 +1,5 @@
 # Hola, mi nombre es Jesús
-`- {Java EE} Developer.`<br><br>  
+`- {Java EE} Developer.`<br>
 
 He trabajado en diversos proyectos, desarrollando sistemas, aplicaciones, web,  utilizando lenguajes, frameworks y tecnologías, como: `Java`, `JavaScript`, `Angular`, `PHP`,  tanto en backend como FrontEnd, acorde a las necesidades de los proyectos.
 Actualmente me encuentro desarrollando en backend utilizando  `Java`, `JavaScript`.
@@ -10,7 +10,7 @@ Actualmente me encuentro desarrollando en backend utilizando  `Java`, `JavaScrip
 <a href="https://github.com/progent/Java">
 <img src="https://www.svgrepo.com/show/349418/java.svg" width="52" height="52" border="0">
 </a> 
-&nbsp;
+
 <a href="https://github.com/progent/JavaScript">
 <img src="https://github.com/user-attachments/assets/01a359d6-7847-4bf3-972c-06eb529b2163" width="52" height="52" border="0">
 </a>
